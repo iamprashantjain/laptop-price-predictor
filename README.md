@@ -1,1 +1,1 @@
-# laptop-price-predictor
+Developed a machine learning model to predict laptop prices based on key features such as processor, RAM, storage, display size, and graphics card. The model, trained on a comprehensive dataset, utilizes regression techniques to provide accurate price estimates. Users can input specifications, and the predictor delivers real-time price predictions, aiding consumers in making informed purchasing decisions.
